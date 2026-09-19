@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Nikhil Kumar 👋
 
-<!--
-**NikhilKumarCode/NikhilKumarCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+I'm a Data Analyst based in Melbourne, Australia, with a background in Business Analytics and Supply Chain & Logistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw data into meaningful business insights through data cleaning, exploratory data analysis, SQL analysis, and interactive dashboards.
+
+Currently, I'm building end-to-end data analytics projects to strengthen my portfolio and prepare for Data Analyst opportunities.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming & Analysis:** Python, Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn, Power BI
+- **Database:** SQL
+- **Spreadsheet:** Microsoft Excel
+- **Analytics:** Data Cleaning, Exploratory Data Analysis (EDA), Business Analysis
+- **Tools:** Google Colab, Git, GitHub
+
+- ---
+
+## 📂 Featured Projects
+
+### 🏥 [Healthcare Analytics](https://github.com/NikhilKumarCode/Healthcare-Analytics)
+End-to-end healthcare data analytics project using Python, SQL, and Power BI to explore patient demographics, hospital activity, medical conditions, billing patterns, and operational insights.
+
+**Tools:** Python | SQL | Power BI
+
+### 🏦 [Bank Customer Churn Analysis](https://github.com/NikhilKumarCode/Bank-Customer-Churn-Analysis)
+End-to-end customer churn analysis using Python, SQL, and Power BI to identify churn drivers, behavioural risk indicators, and customer retention opportunities.
+
+**Tools:** Python | SQL | Power BI
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/nikhilkumar-data-analyst](https://www.linkedin.com/in/nikhilkumar-data-analyst/)
+- **GitHub Portfolio:** [Data Analytics Projects](https://github.com/NikhilKumarCode/Data-Analytics-Projects)
+
+---
+
+⭐ Thanks for visiting my profile!
