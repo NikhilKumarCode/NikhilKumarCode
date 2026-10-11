@@ -33,6 +33,12 @@ End-to-end customer churn analysis using Python, SQL, and Power BI to identify c
 
 **Tools:** Python | SQL | Power BI
 
+### 🏨 [Hotel Booking Analytics](https://github.com/NikhilKumarCode/Hotel-Booking-Analytics)
+
+End-to-end hotel booking analytics project using Python, SQL, and Power BI to analyse booking patterns, cancellation behaviour, customer segments, and estimated revenue performance across City Hotel and Resort Hotel.
+
+**Tools:** Python | SQL | Power BI
+
 ---
 
 ## 📫 Connect With Me
