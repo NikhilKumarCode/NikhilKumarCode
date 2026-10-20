@@ -39,6 +39,13 @@ End-to-end hotel booking analytics project using Python, SQL, and Power BI to an
 
 **Tools:** Python | SQL | Power BI
 
+
+### 📊 [Hotel Booking Analytics (Excel)](https://github.com/NikhilKumarCode/Hotel-Booking-Analytics-Excel)
+
+Interactive hotel booking analytics project using Microsoft Excel to analyze booking trends, cancellation behaviour, customer segments, room preferences, and room assignment patterns through an interactive dashboard.
+
+**Tools:** Microsoft Excel | PivotTables | PivotCharts | Slicers
+
 ---
 
 ## 📫 Connect With Me
