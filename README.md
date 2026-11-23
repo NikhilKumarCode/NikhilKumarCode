@@ -1,12 +1,12 @@
 # Hi, I'm Nikhil Kumar 👋
 
-### Aspiring Data Analyst | Python | SQL | Power BI | Excel
+### Aspiring Business Analyst & Data Analyst | Python | SQL | Power BI | Excel
 
-I'm a Data Analyst based in Melbourne, Australia, with a background in Business Analytics and Supply Chain & Logistics.
+I'm an aspiring Business Analyst and Data Analyst based in Melbourne, Australia, with a Master of Business Analytics from La Trobe University, specialising in Supply Chain and Logistics.
 
-I enjoy transforming raw data into meaningful business insights through data cleaning, exploratory data analysis, SQL analysis, and interactive dashboards.
+I enjoy analysing business problems, identifying performance trends, exploring opportunities for process improvement, and transforming data into meaningful business insights using Python, SQL, Excel, and Power BI.
 
-Currently, I'm building end-to-end data analytics projects to strengthen my portfolio and prepare for Data Analyst opportunities.
+I'm continuing to develop my portfolio through business analytics and data analytics projects, focusing on KPI reporting, operational performance, business intelligence, and data-driven decision-making.
 
 ---
 
